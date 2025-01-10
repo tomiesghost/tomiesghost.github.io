@@ -1,0 +1,29 @@
+﻿.phead {
+    color: #9136f6;
+    font-family: Lucida Sans Unicode;
+    font-size: 36px;
+    text-align: left;
+    padding-left: 15px;
+    line-height: 2;
+    font-weight: normal;
+}
+
+.pindex {
+    color: white;
+    font-family: Lucida Sans Unicode;
+    font-size: 16px;
+    text-align: left;
+    padding-left: 15px;
+    font-weight: normal;
+    line-height: 1.15;
+}
+
+.pbanner {
+    color: white;
+    font-family: Lucida Sans Unicode;
+    font-size: 16px;
+    text-align: justify;
+    padding-left: 15px;
+    font-weight: normal;
+    line-height: 1.15;
+}
